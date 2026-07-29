@@ -15,6 +15,32 @@ An AI-powered Intelligent Traffic Control System that uses **YOLOv8** for vehicl
 - ⚡ Fast and efficient AI-based processing
 
 ---
+## 📂 Dataset
+
+This project uses the **Indian Emergency Vehicles Dataset** from Roboflow Universe for training the emergency vehicle detection model.
+
+**Dataset Link:**
+https://universe.roboflow.com/avanthika-s-nfpex/indian-emergency-vehicles/dataset/3
+
+### Dataset Information
+
+- Source: Roboflow Universe
+- Images: 8,227+
+- Task: Object Detection
+- Classes: 24
+- License: CC BY 4.0
+
+The dataset contains Indian traffic scenarios with:
+- Ambulances
+- Police vehicles
+- Fire trucks
+- Cars
+- Buses
+- Trucks
+- Motorcycles
+- Other road objects
+
+The dataset was used to train a custom YOLOv8 model for emergency vehicle detection.
 
 ## 🛠️ Technologies Used
 
